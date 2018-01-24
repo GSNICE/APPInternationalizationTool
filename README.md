@@ -8,7 +8,7 @@ App的国际化处理脚本，可以将翻译文档一键转换成 Android 以�
 
 ### iOS格式
 
-![iOS格式输出](Image/output_iOS.png)Image
+![iOS格式输出](Image/output_iOS.png)
 ![iOS格式输出详情](Image/output_iOS_details.png)
 
 ### Android格式
